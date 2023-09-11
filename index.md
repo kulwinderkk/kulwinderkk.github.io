@@ -2,6 +2,44 @@
 layout: default
 ---
 
+# Portfolio
+
+## Projects
+
+### Project 1 - [E-commerce Startup Sales Forecast Model Assessment](https://github.com/kulwinderkk/Sales-forecast-for-Brazilian-ecommerce-startup-olist)
+
+Spearheaded the development of a sophisticated E-commerce sales forecast model, harnessing cutting-edge time-series techniques such as SARIMAX, FB Prophet, XGBoost, and LSTM neural networks. To empower our stakeholders with actionable insights, I meticulously visualized the model's findings through dynamic Tableau dashboards.
+
+Tools : Python, Jupyter notebook, Time Series, LSTM Neutral Network, XGBoost, FB Prophet, SARIMAX, Plotly, Tableau
+Category : Sales Forecast, Prediction
+Year : Feb 2023
+
+
+### Project 2 - [NLP Based Recipe Recommendation System ](https://github.com/kulwinderkk/recipe_recommender_nlp)
+
+Utilized advanced content-based filtering with cosine similarity for recipe recommendations to suggest most similar recipes based on user input preference be it recipe name or ingredients. Built it on [Recipe Box](https://eightportions.com/datasets/Recipes/), which contains ~125K scraped recipes. 
+
+Tools : Python, Jupyter notebook, NLP, NLTK, Gensim, TF-IDF Vectorizer, Word2Vec Embeddings, LDA
+Category : Recommender System, Unsupervised NLP based Content-based filtering
+Year : Sept 2023
+
+
+### Project 3 - [Empowering Change through Data Analysis, Dash, and Interactive Charts](https://github.com/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash)
+
+Embarked on a transformative journey with a mission to make a difference. My focus: U.S. mass shooting data. Armed with analytical tools and unwavering resolve, I explored this critical issue, unearthing insights that could spark change. Didn't stop at analysis; I also built a dynamic Dash application enriched with interactive Plotly charts.
+
+Tools : Python, Jupyter notebook, Plotly, Dash
+Category : Data Analysis
+Year : Jul 2023
+
+### Project 4 - [Big Data Wrangling with Google Books Ngrams](https://github.com/kulwinderkk/Big_data_Wrangling_GoogleNgram_data_analysis)
+
+In this project, I applied the skills to analyze a vast real-world dataset. The dataset, Google Ngrams, represents a substantial portion of digitized books throughout history, hosted on Amazon S3. My workflow involved setting up an EMR cluster with Hadoop, Spark, Hive, Jupyterhub, and Livy. I loaded, filtered, and visualized the data, which was stored in CSV format on S3. Using PySpark, I performed data exploration, filtering, and analysis, including plotting token occurrences over time. Additionally, I compared Hadoop and Spark as distributed file systems, highlighting their key advantages and differences.
+
+Tools : Python, Jupyter notebook, Pyspark, Spark SQL, HDFS, Boto, AWS S3 Bucket, EMR Cluster
+Category : Big Data Analysis
+Year : Feb 2023
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
