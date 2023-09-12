@@ -40,7 +40,7 @@ layout: default
 >**Category** : Big Data Analysis <br/>
 >**Year** : Feb 2023
 
->![flow-dia](/assets/img/flow-dia.png)
+>![flow-dia](/assets/img/flow-dia.png) <br/>
 >Project flow diagram
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
