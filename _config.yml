@@ -1,6 +1,16 @@
 title: Kulwinder Kaur
 logo: /assets/img/pic-portfolio.jpg
 description: Data Scientist | Data Analyst
+  links:
+    - label: "LinkedIn"
+      icon: <i class="fab fa-linkedin"></i>
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kulwinderkk"
+    - label: "Email"
+      icon: "fab fa-fw fa-instagram"
+      url: "kulwinderkaur.nit@gmail.com"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
