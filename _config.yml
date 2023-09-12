@@ -1,19 +1,6 @@
 title: Kulwinder Kaur
 logo: /assets/img/pic-portfolio.jpg
 description: Data Scientist | Data Analyst
-# <br><br>
-# <a href="https://www.linkedin.com/in/kkulwinder/">
-#   <i class="fab fa-linkedin-in"></i> Visit LinkedIn.com
-# </a>
-# <br><br>
-# <a href="kulwinderkaur.nit@gmail.com">
-#   <i class="fas fa-envelope"></i> email
-# </a>
-# <br><br>
-# <a href="https://github.com/kulwinderkk">
-#   <i class="fab fa-github"></i> Visit Github.com
-# </a>
-
 show_links : true
 show_downloads: true
 google_analytics:
