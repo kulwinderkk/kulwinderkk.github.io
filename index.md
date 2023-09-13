@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Portfolio
+# PORTFOLIO
 
 ## Projects
 
