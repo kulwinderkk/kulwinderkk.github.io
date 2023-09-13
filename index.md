@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# PORTFOLIO
+# Portfolio
 
 ## Projects
 
@@ -13,7 +13,7 @@ layout: default
 >**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![Plotly](https://img.shields.io/badge/Plotly-white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-white) ![SARIMAX](https://img.shields.io/badge/SARIMAX-white) ![LSTM](https://img.shields.io/badge/LSTM-white) ![FB Prophet](https://img.shields.io/badge/FB_Prophet-white) ![XGBoost](https://img.shields.io/badge/XGBoost-white) ![Tableau](https://img.shields.io/badge/Tableau-white)  <br/>
 >**Category** : Sales Forecast, Prediction <br/>
 >**Year** : Feb 2023 <br/>
-> Figure 1.1 Snapshot from Tableau Public Dashbaord - Product Popularity By Month<br/>
+> Figure 1.1 Snapshot From Tableau Public Dashbaord - Product Popularity By Month<br/>
 > ![snap-tableau](/assets/img/snap-tableau.JPG)
 > [Link to my Tableau Public Profile](https://public.tableau.com/app/profile/kulwinder.kaur6496/viz/OlistBrazilianE-Commercedataanalysis-businessandproductstrategy/Businessperformancedashboard)
 
@@ -25,7 +25,8 @@ layout: default
 >**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![NLP](https://img.shields.io/badge/NLP-white) ![NLTK](https://img.shields.io/badge/NLTK-white) ![Gensim](https://img.shields.io/badge/Gensim-white) ![TFIDF-Vectorizer](https://img.shields.io/badge/TFIDF_Vectorizer-white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-white) ![LDA](https://img.shields.io/badge/LDA-white) <br/>
 >**Category** : Recommender System, Unsupervised NLP based Content-based filtering <br/>
 >**Year** : Sept 2023
-
+> Figure 2.1 Word Cloud - Ingredients<br/>
+> ![snap-recipes](/assets/img/snap-recipes.JPG)
 
 ### Project 3 - [Empowering Change through Data Analysis, Dash, and Interactive Charts](https://github.com/kulwinderkk/data-analysis-mass-shooting-us-plotly-dash)
 
@@ -34,6 +35,7 @@ layout: default
 >**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![Plotly](https://img.shields.io/badge/Plotly-white) ![Dash](https://img.shields.io/badge/Dash-white) <br/>
 >**Category** : Data Analysis <br/>
 >**Year** : Jul 2023
+
 
 ### Project 4 - [Big Data Wrangling with Google Books Ngrams](https://github.com/kulwinderkk/Big_data_Wrangling_GoogleNgram_data_analysis)
 
@@ -45,6 +47,33 @@ layout: default
 > Figure 4.1 : Project flow diagram <br/>
 >![flow-dia](/assets/img/flow-dia.png) <br/>
 
+
+### Project 5 - Hotel Review Sentiment Analysis
+
+>**Overview**: Utilized NLP to preprocess the hotel review text data, did data wrangling and feature engineering. Employed different machine learning algorithms such as KNN, Logistic Regression, Decision Tree to predict the likelihood of rating. Evaluated the model predictions using appropriate evaluation metrics and visualized the confusion matrix.  
+
+>**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![NLP](https://img.shields.io/badge/NLP-white) ![KNN](https://img.shields.io/badge/KNN-white) ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-white) ![Decision Tree](https://img.shields.io/badge/Decision_Tree-white) ![Grid Search](https://img.shields.io/badge/Grid_Search-white) <br/>
+>**Category** : Classification <br/>
+>**Year** : Jan 2023 <br/>
+
+
+### Project 6 - West Nile Virus Dataset Statistical Analysis
+
+>**Overview**: Used StatsModel modules (chi2 test, ANOVA, linear and logistic regression) to perform statistical EDA and interpret the correlation between variables and the WNV presence in Chicago between 2008 and 2019.
+
+>**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![Stats Model](https://img.shields.io/badge/StatsModel-white) ![Chi2](https://img.shields.io/badge/Chi2-white) ![Linear Regression](https://img.shields.io/badge/Linear_Regression-white) ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-white)  <br/>
+>**Category** : Hypothesis Testing, Statistical Analysis <br/>
+>**Year** : Dec 2023 <br/>
+
+
+### Project 7 - Bixi Data Exploration using MySQL and Tableau
+
+>**Overview**: Manipulated the BIXI data and performed EDA using MySQL and Tableau to understand and communicate meaningful findings about the influential factors on bike usage volume and overall company growth via an interactive dashboard.
+
+
+>**Tools** : ![MySQL](https://img.shields.io/badge/MYSQL-white) ![Tableau](https://img.shields.io/badge/Tableau-white)  <br/>
+>**Category** : Data Analysis using SQL, Dashboards <br/>
+>**Year** : Nov 2023 <br/>
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
