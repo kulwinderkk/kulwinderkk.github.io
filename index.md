@@ -22,7 +22,7 @@ layout: default
 
 >**Overview**: Utilized advanced content-based filtering with cosine similarity for recipe recommendations to suggest most similar recipes based on user input preference be it recipe name or ingredients. Built it on [Recipe Box](https://eightportions.com/datasets/Recipes/), which contains ~125K scraped recipes. 
 
->**Tools** : Python, Jupyter notebook, NLP, NLTK, Gensim, TF-IDF Vectorizer, Word2Vec Embeddings, LDA <br/>
+>**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyther_Notebook-white) ![NLP](https://img.shields.io/badge/NLP-white) ![NLTK](https://img.shields.io/badge/NLTK-white) ![Gensim](https://img.shields.io/badge/Gensim-white) ![TFIDF-Vectorizer](https://img.shields.io/badge/TFIDF_Vectorizer-white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-white) ![LDA](https://img.shields.io/badge/LDA-white) <br/>
 >**Category** : Recommender System, Unsupervised NLP based Content-based filtering <br/>
 >**Year** : Sept 2023
 
@@ -31,7 +31,7 @@ layout: default
 
 >**Overview**: Embarked on a transformative journey with a mission to make a difference. My focus: U.S. mass shooting data. Armed with analytical tools and unwavering resolve, I explored this critical issue, unearthing insights that could spark change. Didn't stop at analysis; I also built a dynamic Dash application enriched with interactive Plotly charts.
 
->**Tools** : Python, Jupyter notebook, Plotly, Dash <br/>
+>**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![Plotly](https://img.shields.io/badge/Plotly-white) ![Dash](https://img.shields.io/badge/Dash-white) <br/>
 >**Category** : Data Analysis <br/>
 >**Year** : Jul 2023
 
@@ -39,7 +39,7 @@ layout: default
 
 >**Overview**: In this project, I applied the skills to analyze a vast real-world dataset. The dataset, Google Ngrams, represents a substantial portion of digitized books throughout history, hosted on Amazon S3. My workflow involved setting up an EMR cluster with Hadoop, Spark, Hive, Jupyterhub, and Livy. I loaded, filtered, and visualized the data, which was stored in CSV format on S3. Using PySpark, I performed data exploration, filtering, and analysis, including plotting token occurrences over time. Additionally, I compared Hadoop and Spark as distributed file systems, highlighting their key advantages and differences.
 
->**Tools** : Python, Jupyter notebook, Pyspark, Spark SQL, HDFS, Boto, AWS S3 Bucket, EMR Cluster <br/>
+>**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![Pyspark](https://img.shields.io/badge/Pyspark-white) ![Spark SQL](https://img.shields.io/badge/Spark_SQLwhite) ![HDFS](https://img.shields.io/badge/HDFS-white) ![Boto](https://img.shields.io/badge/Boto-white) ![AWS](https://img.shields.io/badge/AWS-white) ![S3 Bucket](https://img.shields.io/badge/S3-Bucket-white) ![EMR Cluster](https://img.shields.io/badge/EMR-Cluster-white) <br/>
 >**Category** : Big Data Analysis <br/>
 >**Year** : Feb 2023 <br/>
 > Figure 4.1 : Project flow diagram <br/>
