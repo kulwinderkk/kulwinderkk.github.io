@@ -13,8 +13,8 @@ layout: default
 >**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyther_Notebook-white) ![Plotly](https://img.shields.io/badge/Plotly-white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-white) ![SARIMAX](https://img.shields.io/badge/SARIMAX-white) ![LSTM](https://img.shields.io/badge/LSTM-white) ![FB Prophet](https://img.shields.io/badge/FB_Prophet-white) ![XGBoost](https://img.shields.io/badge/XGBoost-white) ![Tableau](https://img.shields.io/badge/Tableau-white)  <br/>
 >**Category** : Sales Forecast, Prediction <br/>
 >**Year** : Feb 2023 <br/>
-> Figure 1.1 <br/>
-> <iframe seamless frameborder="0" src="https://public.tableau.com/shared/35RTR43DT?:display_count=n&:origin=viz_share_link?:toolbar=no?&:showVizHome=no&:embed=true" width = '650' height = '450' scrolling='yes'></iframe> <br/>
+> Figure 1.1 Snapshot from Tableau Public Dashbaord - Product Popularity By Month<br/>
+> ![snap-tableau](/assets/img/snap-tableau.JPG)
 > [Link to my Tableau Public Profile](https://public.tableau.com/app/profile/kulwinder.kaur6496/viz/OlistBrazilianE-Commercedataanalysis-businessandproductstrategy/Businessperformancedashboard)
 
 
