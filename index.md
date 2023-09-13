@@ -24,7 +24,7 @@ layout: default
 
 >**Tools** : ![Python](https://img.shields.io/badge/Python-white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white) ![NLP](https://img.shields.io/badge/NLP-white) ![NLTK](https://img.shields.io/badge/NLTK-white) ![Gensim](https://img.shields.io/badge/Gensim-white) ![TFIDF-Vectorizer](https://img.shields.io/badge/TFIDF_Vectorizer-white) ![Word2Vec](https://img.shields.io/badge/Word2Vec-white) ![LDA](https://img.shields.io/badge/LDA-white) <br/>
 >**Category** : Recommender System, Unsupervised NLP based Content-based filtering <br/>
->**Year** : Sept 2023
+>**Year** : Sept 2023 <br/>
 > Figure 2.1 Word Cloud - Ingredients<br/>
 > ![snap-recipes](/assets/img/snap-recipes.JPG)
 
