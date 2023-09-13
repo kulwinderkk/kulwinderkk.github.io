@@ -10,9 +10,12 @@ layout: default
 
 >Spearheaded the development of a sophisticated E-commerce sales forecast model, harnessing cutting-edge time-series techniques such as SARIMAX, FB Prophet, XGBoost, and LSTM neural networks. To empower our stakeholders with actionable insights, I meticulously visualized the model's findings through dynamic Tableau dashboards.
 
->**Tools** : Python, Jupyter notebook, Time Series, LSTM Neutral Network, XGBoost, FB Prophet, SARIMAX, Plotly, Tableau <br/>
+>**Tools** : ![Python] https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white, ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white), ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Time Series](https://img.shields.io/badge/Time_Series-SARIMAX-white), ![Neural Network](https://img.shields.io/badge/Neural_Network-LSTM-white), ![FB Prophet](https://img.shields.io/badge/FB_Prophet-white), ![XGBoost](https://img.shields.io/badge/XGBoost-white), ![Tableau] https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white  <br/>
 >**Category** : Sales Forecast, Prediction <br/>
->**Year** : Feb 2023
+>**Year** : Feb 2023 <br/>
+> Figure 1.1 <br/>
+> <iframe seamless frameborder="0" src="https://public.tableau.com/shared/58B9G3QZ9?:display_count=n&:origin=viz_share_link?:showVizHome=no&:embed=true" width = '250' height = '170' scrolling='yes'></iframe> <br/>
+> [Link to my Tableau Public Profile](https://public.tableau.com/app/profile/kulwinder.kaur6496/viz/OlistBrazilianE-Commercedataanalysis-businessandproductstrategy/Businessperformancedashboard)
 
 
 ### Project 2 - [NLP Based Recipe Recommendation System ](https://github.com/kulwinderkk/recipe_recommender_nlp)
