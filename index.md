@@ -86,7 +86,7 @@ mobile apps for both frequent flyers and everyday earners.
 - Developed solution focusing on improving the recommender logic by creating more touch points on the landing page and utilizing this data in evaluation metrics.  
 
 > Figure - Evaluation Metrics
-> ![evaluation-metrics](/assets/img/evalutaion-metrics.JPG)
+> ![evaluation-metrics](/assets/img/evaluation-metrics.JPG)
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
