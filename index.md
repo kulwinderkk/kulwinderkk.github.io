@@ -74,6 +74,20 @@ layout: default
 >**Tools** : ![MySQL](https://img.shields.io/badge/MYSQL-white) ![Tableau](https://img.shields.io/badge/Tableau-white)  <br/>
 >**Category** : Data Analysis using SQL, Dashboards <br/>
 >**Year** : Nov 2023 <br/>
+> Figure 7.1 Tableau dashboard on Bixi Bike usage <br/>
+>![bixi-tableau](/assets/img/bixi-tableau.JPG) <br/>
+
+
+## Enhancing Customer Engagement : Aeroplan ![Air Canada]https://img.shields.io/badge/Air%20Canada-F01428.svg?style=for-the-badge&logo=Air-Canada&logoColor=white
+
+- Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Air Canada. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
+- Conducted comprehensive market research to understand the current gaps and needs related to enhancing customer engagement in Aeroplan’s web and
+mobile apps for both frequent flyers and everyday earners.
+- Developed solution focusing on improving the recommender logic by creating more touch points on the landing page and utilizing this data in evaluation metrics.  
+
+> Figure - Evaluation Metrics
+> ![evaluation-metrics](/assets/img/evalutaion-metrics.JPG)
+
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
