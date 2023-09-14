@@ -78,7 +78,8 @@ layout: default
 >![bixi-tableau](/assets/img/bixi-tableau.JPG) <br/>
 
 
-## Enhancing Customer Engagement : Aeroplan ![Air Canada](https://img.shields.io/badge/Air%20Canada-F01428.svg?logo=Air-Canada&logoColor=white)
+## Hackathon
+### Enhancing Customer Engagement : Aeroplan ![Air Canada](https://img.shields.io/badge/Air%20Canada-F01428.svg?logo=Air-Canada&logoColor=white)
 
 - Collaborated with a diverse team during a 24-hour Hackathon sponsored by BrainStation and Air Canada. Leveraged cross-functional teamwork, combining expertise in data science, UX/UI, and software engineering.
 - Conducted comprehensive market research to understand the current gaps and needs related to enhancing customer engagement in Aeroplan’s web and
